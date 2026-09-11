@@ -1,0 +1,5 @@
+{
+  "discordClientId": "PUT_YOUR_DISCORD_APPLICATION_ID_HERE",
+  "statsApiWebSocket": "ws://127.0.0.1:49124/",
+  "largeImageKey": "rocketleague"
+}
